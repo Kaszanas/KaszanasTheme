@@ -3,6 +3,8 @@
   "displayName": "Kaszanas Theme",
   "description": "Some of my VS Code themes for daily use.",
   "version": "0.0.1",
+  "publisher": "kaszanas",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.99.0"
   },
