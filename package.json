@@ -1,0 +1,29 @@
+{
+  "name": "kaszanas-theme",
+  "displayName": "Kaszanas Theme",
+  "description": "Some of my VS Code themes for daily use.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Kaszanas Dark Legacy",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Kaszanas Dark Legacy-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "theme",
+    "vscode"
+  ]
+}
